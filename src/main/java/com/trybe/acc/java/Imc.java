@@ -12,13 +12,13 @@ public class Imc {
     Scanner scan = new Scanner(System.in).useLocale(Locale.US);
 
     System.out.println("Digite o peso:");
-    float peso = scan.nextFloat();
+    float pesoo = scan.nextFloat();
 
     System.out.println("Digite a aultura:");
     float altura = scan.nextFloat();
 
     // Seu código aqui
-    float imc = peso / (altura * altura);
+    float imc = pesoo / (altura * altura);
 
     // Imprime a saída no console. OBS: descomente a próxima linha
     System.out.println(imc);
