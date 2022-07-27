@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Imc {
   /**
-   * class main
+   * class main.
    */
   public static void main(String[] args) {
     // Ler a entrada de um número pelo console
