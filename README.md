@@ -146,17 +146,3 @@ Supondo que os dados sejam: peso igual a 67kg e altura igual a 1.90, então a sa
 ```
 18.559557
 ```
-
-
-
----
-
-# Avisos Finais
-
-Ao finalizar e submeter o desafio, não se esqueça de avaliar sua experiência preenchendo o formulário. Leva menos de 3 minutos!
-
-Link: [Formulário](https://be-trybe.typeform.com/to/PsefzL2e)
-
-O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, não se assuste se isso acontecer, ok?
-
----
